@@ -1,0 +1,130 @@
+body{
+   background-image: url("resources/bg.png");
+   background-attachment:fixed;
+}
+header {
+    background-color:white;
+    color:blue;
+    width:1010px;
+    padding:5px;
+    margin: 10px;
+    margin-left:200px;
+    margin-top:30px;
+    margin-bottom:0px;
+    opacity:0.6;  
+}
+
+header h1 {
+    font-family: Buxton Sketch, Helvetica, sans-serif;
+    font-size: 350%;
+    margin-left:30px; 
+}
+
+aside{
+    float:left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+}
+
+li{
+    display:block;
+}
+
+nav {
+    line-height:30px;
+    height:460px;
+    width:100px;
+    float:left;
+    padding:5px;
+    margin: 30px;
+    background-color: white;
+    opacity:0.6;      
+}
+
+section {
+
+    float:left;
+    padding:10px;
+    background-color: white;
+    font-family: Buxton Sketch, Helvetica, sans-serif;
+    font-size:150%;
+    color:blue;
+    height:450px;
+    width:1000px;
+    margin:30px;
+    text-align:center;
+    opacity:0.7;  	 	 
+}
+
+section form{
+   font-size:150%;
+}
+
+
+div.frm {
+    width: 500px;
+    height: 200px;
+    background-color: green;
+    box-shadow: 10px 10px 5px #888888;
+    text-align:center;
+    border-top-left-radius: 2em;
+    margin:120px;
+    margin-left:250px;
+}
+
+div.img {
+    margin: 10px;
+    margin-up:5px;
+    padding: 5px;
+    border: 1px solid #0000ff;
+    height: 250px;
+    width: auto;
+    float: left;
+    text-align: center;
+}
+
+div.desc {
+  text-align: center;
+  font-weight: normal;
+  width: 120px;
+  margin: 5px;
+}
+
+div.pret{
+  text-align:center;
+  font-weight:normal;
+  width:100px;
+  color:red;
+  margin:5px;
+}
+
+ul.cos{
+   background-color:green;
+   text-align:left;
+   
+   
+}
+section h3{
+  color:red;
+}
+
+div.pagination ul{
+    float:right;
+    background-color:red;
+    border-top-left-radius: 1em;
+    border-bottom-right-radius:1em;
+}
+
+li.active{
+       background-color:white;
+}
+
+aside.stoc{
+       background-color:red;
+}
+
+.logo{
+	margin-left:50px;

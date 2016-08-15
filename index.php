@@ -1,0 +1,46 @@
+<!doctype html>
+<head>
+
+ <link rel="stylesheet" type="text/css" href="style.css" />
+ <link rel="shortcut icon" href="C:\Users\Priscilia\Pictures\twjuicy\bottle1.ico" />
+  <title >TwJuicy</title>
+
+</head>
+ 
+<body>
+
+<a rel href="index.php"><img src="logo/logo.png" alt="logo" height="200" width="200" class="logo" ></a>
+<p></p>
+
+
+
+<nav>
+
+                <ul>
+                    <li><a rel href="sign_in.php"><img src="sign_in.png" alt="Sign-in" height="100" width="100"></a></li>
+                    <li><a href="http://localhost/twJuicy/prod.php"><img src="bottle.png" alt="Produse" height="100" width="100"></a></li>
+                    <li><a href="cos.html"><img src="shopping_Cart.png" alt="Cosul meu" height="100" width="100"></a></li>
+                    <li><a href="faq.html"><img src="question_mark.png" alt="FAQ" height="100" width="100"></a></li>
+                </ul>
+</nav>
+
+<section>
+<aside>
+<img src="JuicyJuiceLogo.png" alt="logo" height="150" width="200">
+</aside>
+<h1>Magazin de sucuri</h1>
+<p>
+   &nbsp &nbsp Juicy este o companie din România care se ocupa cu vanzarea online de sucuri naturale.
+Juicy și-a început activitatea la inceputul anului 2015 ca un magazin online de sucuri, fiind înființat de Ceornea Fivi, Gavriliuc Dina, Banu Ionut si Zahariea Andrei.
+In luna mai a anului 2015, 51% din acțiunile companiei au fost cumpărate de Asesoft Distribution, iar director general al Juicy a devenit Banu Ionut.
+În luna iunie, fondul de investiții Sud African Naspers, cu afaceri anuale la nivel global de peste 5 miliarde de dolari în media, comerț electronic și internet, 
+achiziționează 70% din acțiunile Juicy, iar Banu Ionut ramâne in continuare managerul general al companiei.
+În aceeasi luna, ultimul dintre fondatorii companiei, Zahariea Andrei, a renunțat la acțiunile deținute, respectiv 8,4% din acțiunile Juicy, acestea fiind preluate 
+de către Banu Ionut și de grupul Naspers(Gavriliuc Dina si Ceornea Fivi). Astfel Banu Ionut deține 25,8% din Juicy, iar grupul Naspers 74,2%.
+</p>
+
+</section>
+
+    
+</body>
+</html>
